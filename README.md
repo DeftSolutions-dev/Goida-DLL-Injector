@@ -33,11 +33,11 @@ This launcher downloads and injects **Alya-Endfield** cheat software by [@0xCiel
 This is **only** a launcher/injector tool. The actual cheat is developed and maintained by the original author.
 
 ## Features
-- Manual DLL Mapping — advanced injection without using `LoadLibrary`  
-- Automatic Updates — checks GitHub releases and downloads latest version  
-- Self-contained — embedded unrar.exe, no external dependencies  
-- Modern Console UI — colored output with banner  
-- Version Caching — skips re-download if DLL is already up-to-date  
+- Manual DLL Mapping - advanced injection without using `LoadLibrary`  
+- Automatic Updates - checks GitHub releases and downloads latest version  
+- Self-contained - embedded unrar.exe, no external dependencies  
+- Modern Console UI - colored output with banner  
+- Version Caching - skips re-download if DLL is already up-to-date  
 
 ## Disclaimer
 This launcher is created in a humorous/joke style for educational purposes only.  
