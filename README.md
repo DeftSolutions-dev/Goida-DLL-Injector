@@ -2,8 +2,8 @@
 
 A professional DLL injector with automatic update system for Windows applications, created in a humorous style.
 
-## Important – Before Launching
-**If the game is already running — close it completely first!**  
+## Important - Before Launching
+**If the game is already running - close it completely first!**  
 The launcher will **not** kill the game process itself.
 
 1. Fully close Alya-Endfield / Arknights: Endfield  
