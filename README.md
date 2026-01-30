@@ -18,6 +18,8 @@ After that everything happens automatically:
 
 If the game was already running in memory, injection will most likely fail, crash, or trigger anti-cheat.
 
+<img width="1756" height="1170" alt="image" src="https://github.com/user-attachments/assets/568e3c83-b79a-45f8-99ed-e7742ac58a17" />
+
 ## What it does
 This launcher automatically:  
 - Checks for updates on GitHub releases  
